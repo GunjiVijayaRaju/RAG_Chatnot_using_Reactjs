@@ -21,7 +21,7 @@ It includes a **React frontend** powered by Vite and a **FastAPI backend**.
 
 - React + Vite
 - FastAPI (Python)
-- Node.js
+- Langchain
 - Retrieval-Augmented Generation (RAG)
 - OpenAI or compatible LLM
 
